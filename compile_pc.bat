@@ -1,0 +1,1 @@
+C:\Qt\6.6.0\mingw_64\bin\qt-cmake . -B build && cmake --build build
