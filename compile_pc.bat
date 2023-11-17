@@ -1,1 +1,1 @@
-C:\Qt\6.6.0\mingw_64\bin\qt-cmake . -B build && cmake --build build
+cmake . -B build -DCMAKE_PREFIX_PATH=C:\Qt\6.6.0\mingw_64 && cmake --build build --target all
